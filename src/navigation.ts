@@ -5,31 +5,25 @@ export const headerData = {
     {
       text: 'Home',
       links: [
-        {
-          text: 'obsero',
-          href: getPermalink('/'),
-        },
+        
       ],
+      href: getPermalink('/'),
     },
     {
       text: 'About',
       links: [
-        {
-          text: 'About Us',
-          href: getPermalink('/about'),
-        },
+        
         
       ],
+      href: getPermalink('/about'),
     },
     {
       text: 'Book a Demo',
       links: [
-        {
-          text: 'Lead Generation',
-          href: getPermalink(''),
-        },
+
 
       ],
+      href: getPermalink('/contact'),
     },
 
   ],
