@@ -9,14 +9,14 @@ export const headerData = {
       ],
       href: getPermalink('/'),
     },
-    {
-      text: 'About',
-      links: [
+    // {
+    //   text: 'About',
+    //   links: [
         
         
-      ],
-      href: getPermalink('/about'),
-    },
+    //   ],
+    //   href: getPermalink('/about'),
+    // },
     {
       text: 'Book a Demo',
       links: [
