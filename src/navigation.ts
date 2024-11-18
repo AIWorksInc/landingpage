@@ -4,30 +4,22 @@ export const headerData = {
   links: [
     {
       text: 'Home',
-      links: [
-        
-      ],
+      links: [],
       href: getPermalink('/'),
     },
     // {
     //   text: 'About',
     //   links: [
-        
-        
+
     //   ],
     //   href: getPermalink('/about'),
     // },
     {
       text: 'Book a Demo',
-      links: [
-
-
-      ],
+      links: [],
       href: getPermalink('/contact'),
     },
-
   ],
-  
 };
 
 export const footerData = {
