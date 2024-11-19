@@ -17,7 +17,8 @@ export const headerData = {
     {
       text: 'Book a Demo',
       links: [],
-      href: getPermalink('/contact'),
+      href: 'https://calendly.com/vidyoot-senthil/meet-the-team',
+      target: '_blank',
     },
   ],
 };
